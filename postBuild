@@ -6,4 +6,4 @@ git clone https://github.com/Zulko/vapory.git
 cd vapory
 pip install -e .
 cd ..
-jupyter lab build
+jupyter lab build --dev-build=False --minimize=False
