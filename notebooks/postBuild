@@ -1,0 +1,9 @@
+#!/bin/bash
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install nglview-js-widgets 
+jupyter labextension install jupyter-matplotlib
+git clone https://github.com/Zulko/vapory.git
+cd vapory
+pip install -e .
+cd ..
+jupyter lab build
