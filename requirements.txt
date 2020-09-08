@@ -8,3 +8,4 @@ ase==3.20.1
 nglview==2.7.7
 matplotlib==3.3.1
 voila-osscar-template==0.0.2
+appmode==0.8.0
