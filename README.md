@@ -8,7 +8,7 @@ Tools to render high quality molecular images and videos by POVRAY
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fapps%2Fnotebooks%2Fmolecular_rendering.ipynb)
 
 * Render molecular trajectories to high quality movies
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fapps%2Fnotebooks%2Ftrajectory_rendering.ipynb)
 
 ## Acknowlegements
 
