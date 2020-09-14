@@ -9,3 +9,4 @@ cd vapory
 pip install -e .
 cd ..
 jupyter lab build --dev-build=False --minimize=False
+cp jupyter_notebook_config.py ~/.jupyter 
