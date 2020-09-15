@@ -3,7 +3,7 @@
 Tools to render high quality molecular images and videos by POVRAY
 
 ## Binder links for the apps
-**Due to the limitation of the computing power provided by Binder, it will take long time 
+**Due to the limitation of the computing power provided by Binder, it could take long time 
 to generate the images and videos.**
 
 * Render molecular strcutures to high quality images
