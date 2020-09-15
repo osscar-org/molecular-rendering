@@ -3,6 +3,8 @@
 Tools to render high quality molecular images and videos by POVRAY
 
 ## Binder links for the apps
+**Due to the limitation of the computing power provided by Binder, it will take long time 
+to generate the images and videos.**
 
 * Render molecular strcutures to high quality images
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fapps%2Fnotebooks%2Fmolecular_rendering.ipynb)
@@ -17,8 +19,10 @@ Tools to render high quality molecular images and videos by POVRAY
 
 * The electrostatic colormap of the benzene (C6H6) molecule
 
-<img src="images/electrostatic_colormap.png" alt="drawing" width="500"/>
-<img src="images/electrostatic_trans.png" alt="drawing" width="500"/>
+<div>
+<img src="images/electrostatic_colormap.png" alt="drawing" width="350"/>
+<img src="images/electrostatic_trans.png" alt="drawing" width="350"/>
+</div>
 
 ## Acknowlegements
 
