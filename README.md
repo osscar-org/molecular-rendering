@@ -6,6 +6,9 @@ Tools to render high quality molecular images and videos by POVRAY
 **Due to the limitation of the computing power provided by Binder, it could take long time 
 to generate the images and videos.**
 
+* Index 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Findex.ipynb)
+
 * Render molecular strcutures to high quality images
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fmolecular_rendering.ipynb)
 
