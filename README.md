@@ -9,13 +9,13 @@ to generate the images and videos.**
 * Index 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Findex.ipynb)
 
-* Render molecular strcutures to high quality images
+    * Render molecular strcutures to high quality images
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fmolecular_rendering.ipynb)
 
-* Render molecular trajectories to high quality movies
+    * Render molecular trajectories to high quality movies
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Ftrajectory_rendering.ipynb)
 
-* Plot electrostatic colormap from VASP calculations
+    * Plot electrostatic colormap from VASP calculations
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fisosurface_rendering.ipynb)
 
 ## Gallery
