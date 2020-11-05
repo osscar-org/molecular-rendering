@@ -1,1 +1,1 @@
-web: export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/app/.apt/usr/lib/x86_64-linux-gnu/pulseaudio/:/app/.apt/lib/x86_64-linux-gnu/:/app/.apt/usr/lib/x86_64-linux-gnu; voila --port=$PORT --no-browser --template=osscar --enable_nbextensions=True  notebooks/
+web: LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/app/.apt/usr/lib/x86_64-linux-gnu/pulseaudio/:/app/.apt/lib/x86_64-linux-gnu/:/app/.apt/usr/lib/x86_64-linux-gnu; voila --port=$PORT --no-browser --template=osscar --enable_nbextensions=True  notebooks/
