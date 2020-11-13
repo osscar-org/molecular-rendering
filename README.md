@@ -8,7 +8,7 @@ to generate the images and videos.**
 
 * Index 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/molecular-rendering/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Findex.ipynb)
-[![Materials Cloud Tool](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/materialscloud-org/mcloud-badge/main/badges/mcloud_badge_tools.json)](https://mrender.matcloud.xyz)
+[![Materials Cloud Tool](https://raw.githubusercontent.com/materialscloud-org/mcloud-badge/main/badges/img/mcloud_badge_tools.svg)](https://mrender.matcloud.xyz)
 
 
     * Render molecular strcutures to high quality images
